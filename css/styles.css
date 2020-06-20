@@ -1,0 +1,34 @@
+body{
+    background-color: #4e545a;
+    font-family: 'Marvel', sans-serif;
+    font-size: 2rem;
+}
+p{
+    font-size: 20px;
+}
+.header__brand a{
+    font-size: 30px;
+}
+.navbar-brand{
+    margin: auto auto;
+}
+.nav-item{
+    margin: auto;
+}
+.nav-link{
+    font-size: 18px;
+}
+.about--title{
+    font-size: 50px;
+}
+.about--text{
+    font-size: 20px;
+}
+.info--title{
+    font-size: 60px;
+}
+.footer--title{
+    font-size: 10px;
+}
+
+
